@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "79kWTV8J2K58ePHnexAftjbMP8/GBxbgF4vzWnlZyKg=",
+  "Source": "FabrikaAPI",
+  "BasePath": "_content/FabrikaAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

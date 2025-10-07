@@ -1,0 +1,5 @@
+İş Emri Kodu,Ürün ID,Başlangıç Tarihi,Bitiş Tarihi,Durum,Açıklama
+IE001,1,2024-03-20,2024-03-21,Tamamlandı,Standart üretim süreci
+IE002,2,2024-03-21,2024-03-22,Devam Ediyor,Premium ürün üretimi
+IE003,3,2024-03-22,2024-03-23,Beklemede,Ekonomik ürün üretimi
+IE004,4,2024-03-23,2024-03-24,Planlandı,Özel sipariş üretimi

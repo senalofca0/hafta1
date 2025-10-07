@@ -1,0 +1,4 @@
+Ürün Adı,Ürün Kodu,Açıklama,Min Kalite Skoru,Max Kalite Skoru,Aktif Mi
+Standart Ürün,STD-001,Standart üretim hattı ürünü,70,100,true
+Premium Ürün,PRE-001,Yüksek kalite premium ürün,85,100,true
+Ekonomik Ürün,ECO-001,Ekonomik segment ürün,60,90,true
